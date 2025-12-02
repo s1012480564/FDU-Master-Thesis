@@ -1,1 +1,1 @@
-# fdu-master-thesis
+# FDU Master Thesis
